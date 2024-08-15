@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Awishka Isuru</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+
+- ---
 - 🌱 I’m currently learning **Higher National Diploma in Information Technology , SLIATE Kegalle.**
 
 - 📫 How to reach me **awishkaisuru0573@gmail.com**
 
 - ⚡ Fun fact **awi**
+- ---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
