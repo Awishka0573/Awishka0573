@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Awishka Isuru</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center"> A passionate Web Developer </h3>
 
 
 - ---
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **awishkaisuru0573@gmail.com**
 
-- ⚡ Fun fact **awi**
+
 - ---
 
 <h3 align="center">Connect with me:</h3>
