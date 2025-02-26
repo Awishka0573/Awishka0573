@@ -6,13 +6,13 @@
 - 🌱 I’m currently learning **Higher National Diploma in Information Technology , SLIATE Kegalle.**
 - current learning subjects
 - 
-            -DBMS
-            -Web Programming
-            -OOP
-            -Data Structures and Algorithms
-            -OS
-            -Computer Security
-            
+            -Softwear Engineering
+            -Software Quality Assurance
+            -Professional World
+            -Enterprise Architecture
+            -IT project Management
+            -Business Analysis Practice
+   
             
 
 - 📫 How to reach me **awishkaisuru0573@gmail.com**
