@@ -12,6 +12,13 @@
             -Enterprise Architecture
             -IT project Management
             -Business Analysis Practice
+
+- Currently Following
+              
+                -Js
+                -JQuery
+                -React 
+           
    
             
 
