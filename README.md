@@ -17,7 +17,9 @@
               
                 -Js
                 -JQuery
-                -React 
+                -React
+                -Angular
+                -php
            
    
             
