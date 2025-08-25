@@ -20,6 +20,7 @@
                 -React
                 -Angular
                 -php
+                -laraval
            
    
             
