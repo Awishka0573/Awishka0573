@@ -3,29 +3,18 @@
 
 
 - ---
-- 🌱 I’m currently learning **Higher National Diploma in Information Technology , SLIATE Kegalle.**
-- current learning subjects
-- 
-            -Softwear Engineering
-            -Software Quality Assurance
-            -Professional World
-            -Enterprise Architecture
-            -IT project Management
-            -Business Analysis Practice
+- working as a **Web Developer(intern)** at Oxymai pvt ltd.
+- Under Graduate in **Higher National Diploma in Information Technology(HNDIT) at SLIATE Kegalle.**
 
 - Currently Following
-              
-                -Js
-                -JQuery
-                -React
-                -Angular
-                -php
-                -laraval
-           
-   
-            
+- 
+                -React+vite
+                -Tailwind
+                -Firebase
+                        
 
-- 📫 How to reach me **awishkaisuru0573@gmail.com**
+- 📫 How to reach me **awishkaisuru0573@gmail.com**<br>
+  070 1224436
 
 
 
