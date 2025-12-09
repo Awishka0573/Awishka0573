@@ -10,6 +10,8 @@
 - 
                 -React+vite
                 -Tailwind
+                -Node js
+                -Express
                 -Firebase
                         
 
