@@ -8,6 +8,7 @@
 
 - Currently Following
 - 
+                -Next
                 -React+vite
                 -Tailwind
                 -Node js
